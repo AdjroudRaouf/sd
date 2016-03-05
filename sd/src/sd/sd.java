@@ -29,7 +29,7 @@ public class sd {
 		System.out.println("le pourcentage des nombres negatif est :"+pn+"%");
 
 		
-		System.err.println("rafaaaaa");
+		System.err.println("rafaaaaaf");
 		
 	}
 
