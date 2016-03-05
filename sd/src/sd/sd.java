@@ -3,8 +3,9 @@ package sd;
 import java.util.Scanner;
 
 public class sd {
-//raouf
+
 	public static void main(String[] args) {
+		System.err.println("rafaaaaa");
 		// TODO Auto-generated method stub
 		String elem;
 		int cn = 0;
