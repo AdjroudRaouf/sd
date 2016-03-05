@@ -3,6 +3,7 @@ package sd;
 import java.util.Scanner;
 
 public class sd {
+	//rafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,7 +14,7 @@ public class sd {
 		Scanner input = new Scanner(System.in); 
 		int tab[]= new int [10];
 		for(int i=0;i<tab.length;i++){ 
-			System.out.print("entrez l'élément numero:"+(i+1)+"\n");
+			System.out.print("entrez l'Ã©lÃ©ment numero:"+(i+1)+"\n");
 			elem = input.nextLine(); 
 			tab[i]= Integer.valueOf(elem);
 		}
