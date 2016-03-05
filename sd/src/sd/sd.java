@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class sd {
 
 	public static void main(String[] args) {
-		System.err.println("rafaaaaa");
+		
 		// TODO Auto-generated method stub
 		String elem;
 		int cn = 0;
@@ -27,6 +27,10 @@ public class sd {
 		int pp= cp*100/10;
 		System.out.println("le pourcentage des nombres positif est : "+pp+"%");
 		System.out.println("le pourcentage des nombres negatif est :"+pn+"%");
+
+		
+		System.err.println("rafaaaaa");
+		
 	}
 
 }
